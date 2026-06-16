@@ -1,2 +1,2 @@
 fristpy
-[worada31602](frist01.py)
+[worada31602](first01.py)
